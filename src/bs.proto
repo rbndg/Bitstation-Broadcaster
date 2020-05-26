@@ -1,0 +1,4 @@
+message RadStream {
+  map<string, string> meta = 1;
+  bytes media = 2;
+}

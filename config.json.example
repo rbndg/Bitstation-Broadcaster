@@ -1,0 +1,8 @@
+{
+  "rpcPort": "127.0.0.1:8401",
+  "lnddir": "./certs",
+  "network": "regtest",
+  "implementation": "lnd",
+  "stream_price":"1 Sat/s",
+  "rtmp":"rtmp://0.0.0.0:9001/stream"
+}

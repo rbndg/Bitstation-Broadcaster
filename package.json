@@ -1,0 +1,23 @@
+{
+  "name": "bitstation-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "r32a",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "dazaar": "git+https://github.com/bitfinexcom/dazaar.git",
+    "dazaar-payment-lightning": "git+https://github.com/bitfinexcom/dazaar-payment-lightning.git",
+    "diffy": "^2.1.0",
+    "diffy-view": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "grpc": "^1.24.2",
+    "protocol-buffers": "^4.1.2",
+    "rimraf": "^3.0.2",
+    "tail": "^2.0.3"
+  }
+}
